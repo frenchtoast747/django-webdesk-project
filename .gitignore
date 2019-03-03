@@ -1,0 +1,13 @@
+node_modules/*
+core/static/*
+assets/bundles/*
+client/js/queries/types/**
+postgres_db/**
+
+
+db.sqlite3
+package-lock.json
+*.map
+*.py[co]
+.stignore
+schema.json
