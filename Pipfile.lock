@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4757fc40079a3ddc045c50241d2f6a2530546da09a7c74a6d90335036e89a9ea"
+            "sha256": "93c5dfcb614406771098c3bc17220406a36d8c104c4e1bb1499f8c6e9476e6dd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -25,7 +25,7 @@
         },
         "b038286": {
             "editable": true,
-            "path": "./../django-webdesk"
+            "path": "./django-webdesk"
         },
         "babel": {
             "hashes": [

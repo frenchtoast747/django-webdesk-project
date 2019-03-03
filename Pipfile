@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 django = ">=2.0"
-b038286 = {path = "./../django-webdesk",editable = true}
+b038286 = {path = "./django-webdesk",editable = true}
 django-cors-headers = "*"
 
 [dev-packages]

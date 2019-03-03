@@ -1,0 +1,3 @@
+[submodule "webdesk"]
+	path = django-webdesk
+	url = git@github.com:mostateresnet/django-webdesk.git
